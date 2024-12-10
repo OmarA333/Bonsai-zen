@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: rgb(36, 34, 34);
+}
+.fondo1{
+    background-image:url(Imagenes/banner.jpg);
+    height: 633px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+nav{
+    background-color: rgba(209, 205, 205, 0.76);
+    height: 80px;
+}
+nav ul{
+    list-style-type: none;
+    float: right;
+    margin: -75px 200px;
+}
+a{
+    display: inline;
+    text-decoration: none;
+    padding: 15px 50px;
+    font-size:x-large;
+}
+.enlace{
+    margin-left: -50px;
+}
+.user{
+    float: right;
+    margin-top: -90px ;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.compras{
+    float: right;
+    margin-top: -90px ;
+    margin-right: 120px;
+}
+
+ul a.active,ul :hover{
+    background-color: rgba(114, 106, 106, 0.5);
+    transition: 2s ;
+    border-radius: 10px;
+    margin: 30px ;
+
+}
+.titulo{
+    float: left;
+    font-size: 70px;
+    color: white;
+    margin: 0px 200px;
+    margin-top: 100px;
+
+
+}
+.titulo1{
+    float: left;
+    font-size: 40px;
+    color: white;
+    padding: 0px 440px;
+    margin-top: -20px;
+}
+.botton{
+    background-color: rgba(72, 152, 158, 0.801);
+    width: 125px;
+    border-radius: 10px;
+    float: right;
+    margin: -2px 750px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.botton:hover{
+    background-color: rgba(72, 152, 158, 1);
+    transition: 0.5s;
+}
+.conoce{
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+
+}
+.arbol{
+    float: right;
+    margin-top: -630px;
+    margin-right: 100px;
+
+
+}
+.bienvenido{
+    margin-left: 30px;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 150px;
+    margin-right: 950px;
+    
+}
+.fondo2{
+    background-color: rgb(250, 244, 240);
+    margin-top: -21px;
+    margin-bottom: 50px;
+    height: 634px;
+}
