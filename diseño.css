@@ -1,7 +1,8 @@
 *{
     margin: 0px;
     padding: 0px;
-    color: rgb(36, 34, 34);
+    color: rgb(0, 0, 0);
+   
 }
 .fondo1{
     background-image:url(Imagenes/banner.jpg);
@@ -160,8 +161,6 @@ ul a.active,ul :hover{
 
 
 .div2{
-    
-   
     text-align: center;
     color: #ffffff;
      font-size: 35px;}
@@ -172,8 +171,7 @@ ul a.active,ul :hover{
 #gastronomia{
     display: flex;
     margin-top: 20px;
-    padding: 15px;
-    margin-left:250px ;
+    padding: 1px;
 
 }
 
@@ -182,9 +180,9 @@ a:link{
 }
 
 .div3{
+    color: #d1d4ce;
     text-align: center;
     box-shadow: #ffa600;
-    color: #d1d4ce;
     font-size: 35px;
 }
 
@@ -230,3 +228,76 @@ a:link{
 }
 .botero3:hover{
     transform:scale(1.01);}
+
+
+.div4{
+    
+        color: #62a321;
+        text-align: center;
+        box-shadow: #ffa600;
+        font-size: 35px;
+}
+
+#lugares4{
+        display: flex;
+        margin-top: 20px;
+        padding: 15px;
+        margin-left:-10px ;
+       
+    
+}
+    
+.destacados4{
+        
+        background-color: #ffffff;
+        text-align: center;
+        padding: 15px;
+        border-radius: 15px;
+        margin: 15px;
+}
+.destacados4:hover{
+        transform:scale(1.01);}
+    
+    
+.arvi4{
+        background-color: #ffffff;
+        text-align: center;
+        padding: 15px;
+        border-radius: 15px;
+        margin: 15px;
+}
+.arvi4:hover{
+        transform:scale(1.01);}
+    
+.botero4{
+        background-color: #ffffff;
+        text-align: center;
+        padding: 15px;
+        border-radius: 15px;
+        margin: 15px;
+        
+}
+.botero4:hover{
+        transform:scale(1.01);}
+
+.face4{
+            background-color: #ffffff;
+            text-align: center;
+            padding: 15px;
+            border-radius: 15px;
+            margin: 15px;
+            
+}
+.face4:hover{
+        transform:scale(1.01);}
+
+.x4{
+            background-color: #ffffff;
+            text-align: center;
+            padding: 15px;
+            border-radius: 15px;
+            margin: 15px;
+            
+}
+.x4:hover{
+        transform:scale(1.01);}
