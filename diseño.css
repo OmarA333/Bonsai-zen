@@ -306,7 +306,7 @@ a:link{
 .fondo3{
             background-image:url(Imagenes/bonsaiiiiiiii.avif);
             height: 700px;
-            width: 1880px;
+            width: 100%;
             background-repeat: no-repeat;
             position: relative;
             background-size: cover;
@@ -328,10 +328,10 @@ a:link{
 .fondo3 p{
             background-color: darkolivegreen;
             color: white;
-            position: absolute;
-            top: 2200%;
-            left: 46%;
+            margin-left: 100px;
+            margin-top: 500px;
             transform: translate(-50px,-50px);
+            
         
 }
         
@@ -339,7 +339,6 @@ a:link{
             background-color: darkolivegreen;
             position: relative;
             top: 100%;
-            left: 10%;
             transform: translate(-50px,-50px);
         
 }
@@ -365,18 +364,16 @@ a:link{
             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
         
-.fondo3 h1{
-            color: white;
-            position: relative;
-            top: 50%;
-            left: 0%;
+.fondo3 h1{color: white;
+    margin-left: 100px;
+    margin-top: 20px;
             
 }
         
 .fondo3 h2{color: white;
-            position: relative;
-            top: 50%;
-            left: 230%;
+            margin-left: 800px;
+            margin-top: 20px;
+            
         
 }
         
