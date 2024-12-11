@@ -303,7 +303,7 @@ a:link{
         transform:scale(1.01);}
 
 
-        .fondo3{
+.fondo3{
             background-image:url(Imagenes/bonsaiiiiiiii.avif);
             height: 700px;
             width: 1880px;
@@ -312,9 +312,9 @@ a:link{
             background-size: cover;
             
         
-        }
+}
         
-        .fondo3 article{
+.fondo3 article{
             color: white;
             position: absolute;
             top: 20%;
@@ -322,10 +322,10 @@ a:link{
             transform: translate(-50px,-50px);
             font-size: 25px;
             
-        }
+}
         
         
-        .fondo3 p{
+.fondo3 p{
             background-color: darkolivegreen;
             color: white;
             position: absolute;
@@ -333,25 +333,25 @@ a:link{
             left: 46%;
             transform: translate(-50px,-50px);
         
-        }
+}
         
-        .fondo3 ol{
+.fondo3 ol{
             background-color: darkolivegreen;
             position: relative;
             top: 100%;
             left: 10%;
             transform: translate(-50px,-50px);
         
-        }
+}
         
         
         
         
         
         
-        .ol:hover{
+.ol:hover{
             color: yellow;
-        }
+}
         
         
         
@@ -360,28 +360,28 @@ a:link{
         
         
         
-        .fondo3 a{
+ .fondo3 a{
             color: white;
             font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-        }
+}
         
-        .fondo3 h1{
+.fondo3 h1{
             color: white;
             position: relative;
             top: 50%;
             left: 0%;
             
-        }
+}
         
-        .fondo3 h2{color: white;
+.fondo3 h2{color: white;
             position: relative;
             top: 50%;
             left: 230%;
         
-        }
+}
         
         
-        .fondo3 i{
+.fondo3 i{
             color: black;
             position: relative;
             font-size: 27px;
