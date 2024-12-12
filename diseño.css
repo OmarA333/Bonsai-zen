@@ -114,6 +114,7 @@ li{
     
 }
 .fondo2{
+    padding: 20PX;
     background-color: rgb(250, 244, 240);
     margin-top: -21px;
     margin-bottom: 50px;
@@ -137,6 +138,7 @@ li{
 }
 
 .destacados{
+    width: 700PX;
     
     background-color: #ddd9d9;
     text-align: center;
